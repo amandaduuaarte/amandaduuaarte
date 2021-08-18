@@ -4,8 +4,8 @@
 
 <div> 
   <a href= "https://github.com/amandaduuaarte">
-    <img height= "150cm" width="50%" src="https://github-readme-stats.vercel.app/api?username=amandaduuaarte&show_icons=true&count_private=true&theme=omni&custom_title=Minhas informações">
-    <img height = "130cm" width="50%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaduuaarte&layout=compact&theme=omni"/>
+    <img height= "150cm"  src="https://github-readme-stats.vercel.app/api?username=amandaduuaarte&show_icons=true&count_private=true&theme=omni&custom_title=Minhas informações">
+    <!--<img height = "130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaduuaarte&layout=compact&theme=omni"/>-->
     </div>
   
    ### Skills:
