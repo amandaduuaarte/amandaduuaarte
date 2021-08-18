@@ -6,8 +6,8 @@
   <a href= "https://github.com/amandaduuaarte">
     <img height = "130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaduuaarte&layout=compact&theme=omni"/>
     <img height= "150cm"src="https://github-readme-stats.vercel.app/api?username=amandaduuaarte&show_icons=true&count_private=true&theme=omni&custom_title=Minhas informações">
- </div>
-
+    </div>
+  
    ### Skills:
   <div> 
     <img height="30" src="https://user-images.githubusercontent.com/89158507/129959206-210526e1-6fc0-404c-8af0-62a3668707f6.png">
