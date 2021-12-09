@@ -13,8 +13,9 @@
     <img height="30" src="https://user-images.githubusercontent.com/89158507/129959206-210526e1-6fc0-404c-8af0-62a3668707f6.png">
     <img height="30" src="https://user-images.githubusercontent.com/89158507/129959874-74a32689-01d1-4dff-bdb4-cb598ecfd0cf.png">
     <img height ="30" src="https://user-images.githubusercontent.com/89158507/129976256-4baef179-12f1-4ee6-8132-262ca9665a39.png">
-    <img height="30" src="https://user-images.githubusercontent.com/89158507/129960243-6fb98a10-4840-4f30-ac11-e1301fc47f05.png">
     <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+    <img height="30" src="https://user-images.githubusercontent.com/89158507/129960243-6fb98a10-4840-4f30-ac11-e1301fc47f05.png">
+    
   </div>
   
   ### Contact:
