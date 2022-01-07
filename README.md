@@ -1,6 +1,6 @@
 ## Olá! sou Amanda 
 
-- 🌱 Estudando TypeScript e C. 
+- 🌱 Estudando TypeScript e node. 
 
 <div> 
   <a href= "https://github.com/amandaduuaarte">
