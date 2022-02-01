@@ -4,7 +4,7 @@
 
 <p align="left"> 
  Olá meu nome é Amanda sou  <strong>Desenvolvedora Fron-end</strong>.<br>
- Atualmente  estou estudando Node JS e TypeScript
+ Atualmente  estou estudando React Native e TypeScript
 </p>
 
 <p align="left">
