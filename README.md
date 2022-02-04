@@ -28,7 +28,7 @@ I am currently studying React Native and TypeScript
   
   
   <p align="left">
-  💌 Entre em contato comigo: ⤵️
+  💌 Contact: ⤵️
 </p>
   
 <div> 
