@@ -1,10 +1,11 @@
 ## HI!
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="350px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
- Olá meu nome é Amanda sou  <strong>Desenvolvedora Fron-end</strong>.<br>
- Atualmente  estou estudando React Native e TypeScript
+ Hello, my name is Amanda I am Front-end Developer.
+ <br>
+I am currently studying React Native and TypeScript
 </p>
 
 <p align="left">
