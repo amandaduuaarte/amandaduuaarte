@@ -20,13 +20,7 @@ I am currently studying React Native and TypeScript
 </p>
 
 
-<div> 
-  <a href= "https://github.com/amandaduuaarte">
-   <img height= "150cm"  src="https://github-readme-stats.vercel.app/api?username=amandaduuaarte&show_icons=true&count_private=true&theme=omni&custom_title=Minhas informações">
-  <!--  <img height = "150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaduuaarte&theme=omni&layout=compact&custom_title=Linguagens mais usadas"/> -->
-    </div>
-  
-  
+
   <p align="left">
   💌 Contact: ⤵️
 </p>
