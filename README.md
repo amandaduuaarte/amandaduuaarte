@@ -5,7 +5,7 @@
 <p align="left"> 
  Hello, my name is Amanda I am Front-end Developer.
  <br>
-I am currently studying React Native and TypeScript
+I am currently studying MongoDB and TypeScript
 </p>
 
 <p align="left">
