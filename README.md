@@ -19,7 +19,7 @@ I am currently studying Node JS and TypeScript
   </div>
 </p>
 
-<img align="left" height="415px" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaduuaarte&langs_count=8&theme=tokyonight&hide_border=true">
+<img align="left" height="415px" width="245px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaduuaarte&langs_count=8&theme=tokyonight&hide_border=true">
 
 <div align="right">
 <img height="203px" src="https://github-readme-stats.vercel.app/api?username=amandaduuaarte&show_icons=true&custom_title=Amanda's%20Github%20Stats&theme=tokyonight&hide_border=true">
