@@ -5,7 +5,7 @@
 <p align="left"> 
  Hello, my name is Amanda I am Front-end Developer.
  <br>
-I am currently studying MongoDB and TypeScript
+I am currently studying Node JS and TypeScript
 </p>
 
 <p align="left">
@@ -19,14 +19,8 @@ I am currently studying MongoDB and TypeScript
   </div>
 </p>
 
+<img align="left" height="415px" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaduuaarte&langs_count=8&theme=tokyonight&hide_border=true">
 
-
-  <p align="left">
-  💌 Contact: ⤵️
-</p>
-  
-<div> 
- <a href:mailto:"amandaduuaarte@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <!--Colocar o link do linkedin-->
-  </div>
-
+<div align="right">
+<img height="203px" src="https://github-readme-stats.vercel.app/api?username=amandaduuaarte&show_icons=true&custom_title=Amanda's%20Github%20Stats&theme=tokyonight&hide_border=true">
+</div>
