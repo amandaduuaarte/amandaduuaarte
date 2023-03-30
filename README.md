@@ -1,12 +1,8 @@
-## Hi 🙋🏽‍♀️!
+### Hi there 🙋🏽‍♀️! 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="350px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
- Hello, my name is Amanda I am Front-end Developer.
- <br>
-I am currently studying Node JS and TypeScript
-</p>
+#### My name is Amanda and I am a Brazilian Front-End Developer with some years of experience in the field. I am passionate about creating websites and mobile applications that enhance user experience and engage visitors.
 
 <p align="left">
   🦄 Skills:  <div> 
@@ -19,8 +15,12 @@ I am currently studying Node JS and TypeScript
   </div>
 </p>
 
-<div align="left">
+#### Technologies I am currently studying:
+* TypeScript
+* Node.JS
+* Docker
+* React Native
+
+<div align="center">
 <img height="203px" src="https://github-readme-stats.vercel.app/api?username=amandaduuaarte&show_icons=true&custom_title=Amanda's%20Github%20Stats&theme=tokyonight&hide_border=true">
 </div>
-
-<img align="left" height="490px" width="245px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaduuaarte&langs_count=8&theme=tokyonight&hide_border=true">
