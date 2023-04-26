@@ -19,7 +19,6 @@
 * TypeScript
 * Node.JS
 * Docker
-* React Native
 
 <div align="center">
 <img height="203px" src="https://github-readme-stats.vercel.app/api?username=amandaduuaarte&show_icons=true&custom_title=Amanda's%20Github%20Stats&theme=tokyonight&hide_border=true">
