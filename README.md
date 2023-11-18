@@ -1,6 +1,8 @@
-
-### Hi!
 ![](https://komarev.com/ghpvc/?username=amandaduuaartes&color=006bed)
+<p align="left">
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%23800080&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Software+Developer;Web+Dev;Mobile+Dev;FrontEnd+Dev+%3C3"></a>
+</p>
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="350px" align="right">
 
 #### My name is Amanda and I am a Brazilian Front-End Developer with some years of experience in the field. I am passionate about creating websites and mobile applications that enhance user experience and engage visitors.
