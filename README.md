@@ -5,10 +5,11 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="350px" align="right">
 
-#### My name is Amanda and I am a Brazilian Front-End Developer with some years of experience in the field. I am passionate about creating websites and mobile applications that enhance user experience and engage visitors.
+#### My name is Amanda, and I am a Front-End Developer from Brazil with several years of experience. I am enthusiastic about developing websites and mobile applications that improve the user experience and engage visitors.
 
 <p align="left">
- 💬 Skills:  <div> 
+ 💬 Skills:  
+<div> 
     <code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"/></code>
     <code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"/></code>
     <code><img height ="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"/></code>
