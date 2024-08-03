@@ -29,9 +29,8 @@ I currently create things with JavaScript and Typescript.
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   
-🌱Technologies I currently working on:
-* React Native
-* Typescript
+🌱Technologies I am currently learning: 
+* Kotlin 📱
 
 📝 I regularly write articles on: 
 <div>
