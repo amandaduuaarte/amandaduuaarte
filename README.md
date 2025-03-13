@@ -30,7 +30,7 @@ I currently create things with JavaScript and TypeScript.
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   
 🌱Technologies I am currently learning: 
-* Swift 📱
+* Kotlin 📱
 
 <!--📝 I regularly write articles on: 
 <div>
