@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="350px" align="right">
 
 #### My name is Amanda, and I am a Brazilian Front-End Developer with several years of experience. I am passionate about creating websites and mobile apps that enhance the user experience and engage visitors. 
-I currently create things with JavaScript and Typescript.
+I currently create things with JavaScript and TypeScript.
 
 <p align="left">
  💬 Skills:  
@@ -30,14 +30,14 @@ I currently create things with JavaScript and Typescript.
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   
 🌱Technologies I am currently learning: 
-* Kotlin 📱
+* Swift 📱
 
-📝 I regularly write articles on: 
+<!--📝 I regularly write articles on: 
 <div>
  <a href="https://medium.com/@amandaduuaarte">
   <Img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/> 
  </a>
-</div>
+</div>-->
 
 <p> 📫 How to reach me: (Click in my octocat) <p>
 <a href="https://www.linkedin.com/in/amanda-duarte-99545721b/">
